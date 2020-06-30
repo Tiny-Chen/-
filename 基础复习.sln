@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01语法复法", "01语法复法\01语法复法.csproj", "{7A8783A8-8EC8-4338-B531-576620D1683E}"
 EndProject
@@ -70,6 +70,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33委托练习窗体传值", "33委托练习窗体传值\33委托练习窗体传值.csproj", "{E107C426-767D-4A74-B51C-E48450BDD11F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34多播委托", "34多播委托\34多播委托.csproj", "{58664C0B-DA1C-4B7C-BA23-902CD7D2A1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T批量修改文件名", "T批量修改文件名\T批量修改文件名.csproj", "{CF04C2C9-A944-4EFD-B362-44850FAF1669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "保存文件名到文本中", "保存文件名到文本中\保存文件名到文本中.csproj", "{8F0AB288-F666-440B-B0B3-47B2C92691DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +217,14 @@ Global
 		{58664C0B-DA1C-4B7C-BA23-902CD7D2A1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58664C0B-DA1C-4B7C-BA23-902CD7D2A1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58664C0B-DA1C-4B7C-BA23-902CD7D2A1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04C2C9-A944-4EFD-B362-44850FAF1669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04C2C9-A944-4EFD-B362-44850FAF1669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04C2C9-A944-4EFD-B362-44850FAF1669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04C2C9-A944-4EFD-B362-44850FAF1669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0AB288-F666-440B-B0B3-47B2C92691DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0AB288-F666-440B-B0B3-47B2C92691DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0AB288-F666-440B-B0B3-47B2C92691DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0AB288-F666-440B-B0B3-47B2C92691DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
